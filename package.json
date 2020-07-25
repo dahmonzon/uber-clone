@@ -1,0 +1,10 @@
+{
+  "name": "uber-clone",
+  "version": "1.0.0",
+  "description": "learn vanila javascript by building an uber clone",
+  "main": "main.js",
+  "repository": "https://github.com/giovanidos/uber-clone",
+  "author": "Diarra Dah",
+  "license": "MIT",
+  "private": false
+}
